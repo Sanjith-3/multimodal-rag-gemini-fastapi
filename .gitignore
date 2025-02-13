@@ -1,13 +1,7 @@
-/.env
+.env
 /.venv
 /final_demo_app.py
 /Materials
 /requirements.txt
 /Trial_Codes
 /~$advsdv.docx
-
-/chromadb_storage
-/figures
-/uploads
-/__pycache__
-

@@ -1,0 +1,48 @@
+# Core Framework Dependencies
+fastapi==0.109.2
+python-multipart==0.0.9
+uvicorn==0.27.1
+pydantic==2.6.1
+
+# Document Processing
+unstructured==0.12.3
+python-docx==1.1.0
+pdf2image==1.17.0
+nltk==3.8.1
+
+# Machine Learning & Embeddings
+torch==2.2.0
+sentence-transformers==2.3.1
+scikit-learn==1.4.0
+numpy==1.26.3
+
+# Vector Database
+chromadb==0.4.22
+
+# Image Processing
+Pillow==10.2.0
+
+# LangChain Components
+langchain==0.1.9
+langchain-google-genai==0.0.6
+langchain-core==0.1.27
+langchain-community==0.0.24
+
+# Google AI
+google-generativeai==0.3.2
+
+# Metrics & Evaluation
+rouge==1.0.1
+
+# API Clients
+groq==0.4.2
+
+# Development & Environment
+python-dotenv==1.0.1
+
+# UI Framework
+streamlit==1.31.1
+
+# Optional Dependencies
+poppler-utils==24.02.0  # System dependency for pdf2image
+tesseract==5.3.3        # System dependency for OCR
