@@ -2,7 +2,7 @@
 /figures
 /uploads
 /__pycache__
-/.env
+.env
 /.venv
 /final_demo_app.py
 /Materials
