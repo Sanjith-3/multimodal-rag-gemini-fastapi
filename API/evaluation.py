@@ -458,7 +458,7 @@ async def evaluate(
     retrieved_context_images: Optional[List[UploadFile]] = File(None)
 ):
     # Initialize evaluator with your Groq API key
-    evaluator = RAGEvaluator(groq_api_key="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")
+    evaluator = RAGEvaluator(groq_api_key="")
     
 
     
