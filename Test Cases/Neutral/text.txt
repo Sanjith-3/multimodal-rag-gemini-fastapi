@@ -1,0 +1,9 @@
+'reference response': "The kitchen features modern stainless steel appliances, including a refrigerator, stove, and dishwasher. The countertops are granite, and there's an island in the  
+                       center.",
+
+'generated response': "This kitchen has stainless steel appliances and granite countertops. It includes basic amenities and some additional features.",
+
+'reference context': "This newly renovated kitchen comes with high-end appliances, custom cabinetry, and a spacious layout perfect for entertaining. The lighting is modern and the space  
+                      includes a breakfast nook.",
+
+'retrieved context': "The kitchen has been updated with new appliances and countertops. It offers good space for cooking and includes modern features. The layout is functional."

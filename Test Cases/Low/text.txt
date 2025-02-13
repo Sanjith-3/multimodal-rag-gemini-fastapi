@@ -1,0 +1,9 @@
+'reference_response': "The mountain peak is covered in snow, reaching into the clouds at sunset. The rocky terrain shows signs of glacial formation, and there's a small lake at the base.",
+
+'generated_response': "The beach stretches for miles with white sand and crystal clear blue water. Palm trees line the shore, and there are several boats visible in the distance.",
+ 
+'reference_context': "This photograph captures the majestic Alps during winter, showcasing the harsh beauty of high-altitude environments and the geological features formed over millions of years.",
+
+'retrieved_context': "The tropical paradise offers pristine beaches and warm waters perfect for swimming and water sports. The coastal vegetation provides natural shade and habitat for local  
+                      wildlife."
+}

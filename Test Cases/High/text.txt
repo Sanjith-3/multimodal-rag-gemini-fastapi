@@ -1,0 +1,10 @@
+'reference response':  "The image shows a golden retriever puppy playing with a red ball in a green garden. The puppy appears to be about 3 months old and very energetic.",
+
+'generated response':  "In the image, a young golden retriever puppy is enthusiastically playing with a red ball in a grassy garden. The puppy looks to be around 3 months old and full of   
+                        energy.",
+
+'reference context' :  "The photograph captures a sunny afternoon scene where a golden retriever puppy is engaging with a toy. The setting is a well-maintained garden with green grass and  
+                        some flowers in the background.",
+
+'retrieved_context' : "This photo was taken on a bright afternoon, showing a golden retriever puppy interacting with its toy. The backdrop is a beautiful garden with green grass and  
+                       flowering plants."
