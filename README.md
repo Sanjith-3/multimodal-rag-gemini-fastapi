@@ -69,7 +69,7 @@ Key Functions:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multimodal-rag.git
+[git clone https://github.com/yourusername/multimodal-rag.git](https://github.com/Sanjith-3/multimodal-rag-gemini-fastapi.git)
 cd multimodal-rag
 ```
 
@@ -117,7 +117,7 @@ GROQ_API_KEY=your_groq_api_key
   - Provides reliable multimodal capabilities without infrastructure overhead
   - Offers good response quality for demonstration purposes
 
-### Why Not Other Services?
+#### Why Not Other Services?
 - Services like Groq and SambaNova:
   - Limited to single image per input
   - May have higher latency
